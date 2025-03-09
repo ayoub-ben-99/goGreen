@@ -63,8 +63,10 @@ Contributions are always welcome! If you have any suggestions, fixes, or ideas, 
 
 ## 📈 Example Contribution Graph
 
-Here's an example of what your contribution graph could look like using **goGreen**:
+Here's an example of what your contribution graph could look like using **goGreen** :
 
+![commits gitHub](./commits.png)
 ---
 
-Made with  by [ayoub-ben-99](https://github.com/ayoub-ben-99)
+> ### Made with  by : [**ayoub-ben-99**](https://github.com/ayoub-ben-99)
+
