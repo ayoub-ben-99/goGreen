@@ -23,8 +23,8 @@ const makeCommits = async (n) => {
     return git.push();
   }
 
-  const x = random.int(0, 54);
-  const y = random.int(0, 60);
+  const x = random.int(3000, 5400);
+  const y = random.int(1000, 6000);
   const date = moment().subtract(1, "y").add(1, "d").add(x, "w").add(y, "d").format();
 
   console.log("loading... ", date);
