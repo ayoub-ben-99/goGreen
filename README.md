@@ -30,7 +30,7 @@ npm init -y
 ### 3. Install Required Modules
 You'll need a few npm modules to get everything running smoothly. Install them with:
 ```bash
-npm install moment simple-git random
+npm install moment simple-git random colors
 ```
 
 ### 4. Create Your Commit Script
